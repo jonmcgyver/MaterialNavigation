@@ -11,6 +11,7 @@ Thank you to Chris Banes, I took most the code from his post here: http://goo.gl
   ChangeLog:
     
     -11/7/2014: Initial Commit
+    -11/7/2014: Added LICENSE.md to project 
     
   
 
